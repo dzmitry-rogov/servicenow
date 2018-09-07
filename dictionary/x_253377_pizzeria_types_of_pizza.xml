@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Types of pizza" max_length="40" name="x_253377_pizzeria_types_of_pizza" type="collection">
+        <element label="Composition" max_length="100" name="composition" type="string"/>
+        <element display="true" label="Name" max_length="20" name="name" type="string"/>
+        <element label="Price" max_length="40" name="price" type="integer"/>
+        <element label="Size" max_length="40" name="size" type="integer"/>
+        <element label="Weigth" max_length="40" name="weigth" type="integer"/>
+    </element>
+</database>
